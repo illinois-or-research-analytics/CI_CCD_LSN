@@ -7,8 +7,8 @@ The goal of this project is to develop cyber-infrastructure for scalable graph a
 
 This site is being actively developed. In addition, to code that will be archived here, we will also aggregate components of the following repositories.
 
-https://github.com/RuneBlaze/hm01
-https://github.com/chackoge/ERNIE_Plus
-https://github.com/illinois-or-research-analytics/spring_2022_research
-https://github.com/illinois-or-research-analytics/aocv2_rs
-https://github.com/illinois-or-research-analytics/aocv2_plus
+1. https://github.com/RuneBlaze/hm01
+2. https://github.com/chackoge/ERNIE_Plus
+3. https://github.com/illinois-or-research-analytics/spring_2022_research
+4. https://github.com/illinois-or-research-analytics/aocv2_rs
+5. https://github.com/illinois-or-research-analytics/aocv2_plus
